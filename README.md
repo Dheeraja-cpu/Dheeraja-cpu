@@ -1,35 +1,12 @@
-# Hi, I'm Dheeraja 👋
+# 💫 About Me:
+Senior Software Engineer | DevOps | Platform Engineering | Cloud Native<br><br>I build scalable developer platforms, automate infrastructure, and secure software delivery pipelines.<br><br>🚀 Engineering Focus<br>Kubernetes & OpenShift Platform Engineering<br>CI/CD Automation<br>DevSecOps<br>Infrastructure as Code<br>Cloud & AI Engineering<br>🛠️ Tech Stack<br>Cloud: AWS | Azure<br><br>Containers: Kubernetes | OpenShift | Docker | Helm<br><br>CI/CD: GitHub Actions | Jenkins | ArgoCD<br><br>IaC: Terraform<br><br>Security: SAST | Container Security | DevSecOps<br><br>Programming: Python | Bash | Java<br><br>Currently exploring: LLMs • AI Agents • Cloud Automation
 
-Senior Software Engineer | DevOps | Platform Engineering | Cloud Native
 
-I build scalable developer platforms, automate infrastructure, and secure software delivery pipelines.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Dheeraja-cpu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dheeraja-cpu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dheeraja-cpu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Engineering Focus
-- Kubernetes & OpenShift Platform Engineering
-- CI/CD Automation
-- DevSecOps
-- Infrastructure as Code
-- Cloud & AI Engineering
-
-## 🛠️ Tech Stack
-
-Cloud:
-AWS | Azure
-
-Containers:
-Kubernetes | OpenShift | Docker | Helm
-
-CI/CD:
-GitHub Actions | Jenkins | ArgoCD
-
-IaC:
-Terraform
-
-Security:
-SAST | Container Security | DevSecOps
-
-Programming:
-Python | Bash | Java 
-
-Currently exploring:
-LLMs • AI Agents • Cloud Automation
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
