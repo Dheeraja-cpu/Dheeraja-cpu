@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Dheeraja 👋
 
-<!--
-**Dheeraja-cpu/Dheeraja-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | DevOps | Platform Engineering | Cloud Native
 
-Here are some ideas to get you started:
+I build scalable developer platforms, automate infrastructure, and secure software delivery pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Engineering Focus
+- Kubernetes & OpenShift Platform Engineering
+- CI/CD Automation
+- DevSecOps
+- Infrastructure as Code
+- Cloud & AI Engineering
+
+## 🛠️ Tech Stack
+
+Cloud:
+AWS | Azure
+
+Containers:
+Kubernetes | OpenShift | Docker | Helm
+
+CI/CD:
+GitHub Actions | Jenkins | ArgoCD
+
+IaC:
+Terraform
+
+Security:
+SAST | Container Security | DevSecOps
+
+Programming:
+Python | Bash | Java 
+
+Currently exploring:
+LLMs • AI Agents • Cloud Automation
