@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer | DevOps | Platform Engineering | Cloud Native<br><br>I build scalable developer platforms, automate infrastructure, and secure software delivery pipelines.<br><br>🚀 Engineering Focus<br>Kubernetes & OpenShift Platform Engineering<br>CI/CD Automation<br>DevSecOps<br>Infrastructure as Code<br>Cloud & AI Engineering<br>🛠️ Tech Stack<br>Cloud: AWS | Azure<br><br>Containers: Kubernetes | OpenShift | Docker | Helm<br><br>CI/CD: GitHub Actions | Jenkins | ArgoCD<br><br>IaC: Terraform<br><br>Security: SAST | Container Security | DevSecOps<br><br>Programming: Python | Bash | Java<br><br>Currently exploring: LLMs • AI Agents • Cloud Automation
+Senior Software Engineer | DevOps | Platform Engineering | Cloud Native<br><br>I build scalable developer platforms, automate infrastructure, and secure software delivery pipelines.<br><br>🚀 Engineering Focus<br>Kubernetes & OpenShift Platform Engineering<br>CI/CD Automation<br>DevSecOps<br>Infrastructure as Code<br>Cloud & AI Engineering<br> 🛠️ Tech Stack<br>Cloud: AWS | Azure<br><br>Containers: Kubernetes | OpenShift | Docker | Helm<br><br>CI/CD: GitHub Actions | Jenkins | ArgoCD<br><br>IaC: Terraform<br><br>Security: SAST | Container Security | DevSecOps<br><br>Programming: Python | Bash | Java<br><br>Currently exploring: LLMs • AI Agents • Cloud Automation
 
 
 # 💻 Tech Stack:
